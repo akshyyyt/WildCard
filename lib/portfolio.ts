@@ -7,13 +7,6 @@ export interface DomainData {
 }
 
 export const portfolio: Record<string, DomainData> = {
-  "wild-card-seven.vercel.app": {
-    brandName: "Test Brand",
-    price: "₹10,000",
-    tagline: "This is a test to see the sales page UI.",
-    stripeLink: "https://buy.stripe.com/test",
-    logoText: "TB",
-  },
   "puneroofing.com": {
     brandName: "Pune Roofing",
     price: "₹10,000",
