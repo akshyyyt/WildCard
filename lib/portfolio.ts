@@ -7,7 +7,7 @@ export interface DomainData {
 }
 
 export const portfolio: Record<string, DomainData> = {
-  "puneroofing.com": {
+  "https://wild-card-seven.vercel.app/": {
     brandName: "Pune Roofing",
     price: "₹10,000",
     tagline: "Premium domain for roofing services in Pune. Establish instant credibility in the local market.",
